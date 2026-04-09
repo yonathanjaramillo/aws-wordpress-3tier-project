@@ -44,7 +44,7 @@ This project demonstrates deploying a WordPress application on AWS using a 3-tie
 See the /screenshots folder
 
 ## How to Access
-http://YOUR-PUBLIC-IP
+[http://YOUR-PUBLIC-IP](http://44.200.220.47/wp-admin/)
 
 ## Author
 Yonathan Jaramillo
